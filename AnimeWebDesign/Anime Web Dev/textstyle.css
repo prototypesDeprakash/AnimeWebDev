@@ -1,0 +1,83 @@
+.title{
+    color: rgb(0, 0, 0);
+    font-style: unset;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+   padding-left: 500px;
+   margin-top: 20px;
+   margin-left: 100px;
+   margin-right: 100px;
+   box-shadow: 5px 5px 50px black;
+}
+.card{
+    margin-top: 50px;
+  
+  border-radius: 50px;
+ width:320px;
+ height:220px;
+ 
+ 
+ margin-left: 95px;
+ 
+ transition: hover,0.8s;
+}
+.card:hover{
+    box-shadow: 10px 10px 50px black;
+    background-color: rgb(0, 0, 0);
+    opacity: 0.9 ;
+
+
+}
+.imgs2{
+    padding: 100px;
+}
+
+.card2{
+    margin-top: 1px;
+    
+  
+    border-radius: 50px;
+   width:320px;
+   height:220px;
+   
+   
+  margin-right: 95px;
+   
+   transition: hover,0.8s;
+  }
+  .card2:hover{
+      box-shadow: 10px 10px 50px black;
+      background-color: rgb(0, 0, 0);
+      opacity: 0.9 ;
+  
+  
+  }
+  .imgs2{
+      padding: 100px;
+  }
+  body{
+    background-color: rgb(255, 255, 255);
+  }
+  .DevBut{
+    margin-left: 580px;
+   margin-top: 90px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    border-style: none;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    transition: hover,.5s;
+    transition: opacity,.5s;
+  
+  }
+  .DevBut:hover{
+    box-shadow: 10px 10px 20px black;
+    opacity: 0.8;
+
+  }
+  

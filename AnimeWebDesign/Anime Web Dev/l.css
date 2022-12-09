@@ -1,0 +1,40 @@
+.heading{
+    padding-left: 650px;
+    padding-top: 50px;
+    transition: hover,1.5s;
+}
+
+.imagel{
+    display: block;
+    border-radius: 50px;
+}
+.textinfo{
+   
+    margin-left: 100px;
+    margin-bottom: 100px;
+   
+    
+}
+
+.container{
+    display: flex;
+  align-items: center;
+  justify-content: center
+}
+.butgb{
+    height: 50px;
+   width: 90px;
+    margin-left: 700px;
+    margin-bottom: 70px;
+    border-style: none;
+    border-radius: 25px;
+background-color: black;
+color: white;
+transition: opacity,.5s;
+}
+.butgb:hover{
+    opacity: .8;
+    box-shadow: 10px 10px 50px black;
+    cursor: pointer;
+    
+}

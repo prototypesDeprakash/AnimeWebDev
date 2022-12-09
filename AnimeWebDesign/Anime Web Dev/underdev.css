@@ -1,0 +1,30 @@
+.title{
+    padding-left: 551px;
+    padding-top: 250px;
+    color: rgb(255, 255, 255);
+    font-style: unset;
+    font-weight: bold;
+    background-color: rgb(164, 0, 0);
+    font-weight: 5px;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(164, 0, 0);
+}
+.but{
+    
+  margin-left: 600px;
+  height: 75px;
+  width: 150px;
+  border-radius: 25px;
+  font-size: 20px;
+  border-style: none;
+  background-color: white;
+  transition: hover,.8s;
+
+}
+.but:hover{
+    box-shadow: 10px 10px 50px black;
+    height:85px;
+    width: 170px;
+}
